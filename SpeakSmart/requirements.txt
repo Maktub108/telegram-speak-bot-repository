@@ -1,0 +1,13 @@
+
+aiogram==3.10.0
+aiofiles==23.2.0
+SQLAlchemy==2.0.25
+SpeechRecognition==3.10.0
+gTTS==2.5.4
+pydub==0.25.1
+python-dotenv==1.0.0
+requests==2.31.0
+
+
+
+
